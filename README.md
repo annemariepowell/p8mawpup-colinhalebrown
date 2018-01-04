@@ -81,7 +81,7 @@ After You have put in your airline code input how often you want it to check the
 * If the flight ICAO code or flight number is not accociated with an actual flight it will check and give a large error code every few invterval. 
 * invalid or incorrect twilio information is given.
 * The twilio or cell number given are given with other characters, spaces, hyphens, parentheses ect. 
-
+* (insert image example[s] here?)
 
 # Sources
 * I used a free code camp tutorial to learn BeautifulSoup it can be found [HERE](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
